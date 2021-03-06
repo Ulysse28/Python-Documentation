@@ -1,0 +1,63 @@
+
+
+
+nav{
+    border-right:solid;
+    position:fixed;
+    border-color:rgb(150, 147, 147);
+    width:300px;
+    top:0px;
+    left:0px;
+  
+   
+}
+
+.title{
+    font-weight:bold;
+    font-size: 25px;
+    text-align:center;
+    margin-top:20px;
+  
+}
+#nav-bar ul{
+    height: 550px;
+    padding:0;
+    width:100%;
+    overflow-y: scroll;
+    
+    
+}
+
+nav li{
+    list-style:none;
+    border-top:solid;
+    border-color:rgb(150, 147, 147);
+    width:100%;
+    position:relative;
+    
+    
+}
+
+nav a{
+    display:block;
+    padding:10px 30px;
+    text-decoration:none;
+    color:black;
+    font-size:20px;
+}
+
+
+#main-doc{
+    position:absolute;
+    margin-left:310px;
+}
+
+header{
+    text-align: left;
+    font-size:25px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+
+
