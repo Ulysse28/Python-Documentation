@@ -19,7 +19,7 @@ nav{
     margin-top:20px;
   
 }
-#nav-bar ul{
+#navbar ul{
     height: 550px;
     padding:0;
     width:100%;
@@ -61,3 +61,12 @@ header{
 
 
 
+@media screen and (max-width: 1024px)
+{
+    p
+    {
+        color: red; 
+        background-color: black;
+        font-size: 1.2em;
+    }
+}
